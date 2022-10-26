@@ -14,7 +14,7 @@ Feel free to fork this repository and tailor it to suit you.
 ## Procedure
 1. Download Bash script to create new C++ projects 
     ```bash
-    curl -O https://raw.githubusercontent.com/TimothyHelton/cpp_project_template/master/new_cpp_project.sh
+    curl -O https://raw.githubusercontent.com/fieryWalrus1002/cpp_project_template/master/new_cpp_project.sh
     chmod u+x new_cpp_project.sh
     ```
 1. Create new C++ project
@@ -75,6 +75,6 @@ corner.
 ## Wrap Up
 That should be all it takes to start writing code.
 If you find any issues or bugs with this repository please file an issue on
-[GitHub](https://github.com/TimothyHelton/cpp_project_template/issues).
+[GitHub](https://github.com/fieryWalrus1002/cpp_project_template/issues).
 
 Hope you find this template useful and enjoy learning C++!

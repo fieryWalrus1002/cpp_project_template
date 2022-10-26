@@ -13,7 +13,7 @@ NAME=$1
 
 
 # Clone template repository
-git clone https://github.com/TimothyHelton/cpp_project_template
+git clone https://github.com/fieryWalrus1002/cpp_project_template
 
 # Create bare repository
 git --bare init ${NAME}
